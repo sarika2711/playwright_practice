@@ -1,5 +1,10 @@
 class Test 
 {
+
+public static void add()
+{
+}
+
 	public static void main(String[] args) 
 	{
 		System.out.println("Hello World!");
